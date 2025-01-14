@@ -1,4 +1,2 @@
 # AE_control_funcionarios
-# AE_control_funcionarios
-# AE_control_funcionarios
-# Control_funcionarios_AE
+proyecto que funciona como un control de tareas a los funcionarios, donde se podran asignar trabajos, subir evidenvias entre otras.
